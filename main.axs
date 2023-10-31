@@ -1,4 +1,7 @@
 ﻿PROGRAM_NAME='main'
+// Author: Adrian Sausenthaler
+// Source: https://github.com/sausix/AMX-IP-Manager
+// License: MIT
 
 DEFINE_DEVICE
 //For ipdev classic mode:

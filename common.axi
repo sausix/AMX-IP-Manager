@@ -1,4 +1,7 @@
 ﻿PROGRAM_NAME='common'
+// Author: Adrian Sausenthaler
+// Source: https://github.com/sausix/AMX-IP-Manager
+// License: MIT
 #DEFINE common // Common and basic functions
 /*
 === [Description] =============================================================

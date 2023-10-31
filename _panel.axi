@@ -1,4 +1,7 @@
 PROGRAM_NAME='_panel'
+// Author: Adrian Sausenthaler
+// Source: https://github.com/sausix/AMX-IP-Manager
+// License: MIT
 #DEFINE ait_panel
 /*
 === [Description] =============================================================

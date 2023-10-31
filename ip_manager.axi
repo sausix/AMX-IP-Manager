@@ -1,4 +1,7 @@
 PROGRAM_NAME='ip_manager'
+// Author: Adrian Sausenthaler
+// Source: https://github.com/sausix/AMX-IP-Manager
+// License: MIT
 #DEFINE ip_manager
 /*
 === [Description] =============================================================
